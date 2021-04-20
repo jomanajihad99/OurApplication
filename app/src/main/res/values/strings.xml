@@ -9,4 +9,8 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="payments">Payments</string>
+    <string name="booking_details">Booking Details</string>
+    <string name="choose_an_availabe_date">Choose an availabe date</string>
+    <string name="name_on_card">Name on Card</string>
 </resources>
