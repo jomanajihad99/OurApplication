@@ -12,5 +12,15 @@
     <string name="payments">Payments</string>
     <string name="booking_details">Booking Details</string>
     <string name="choose_an_availabe_date">Choose an availabe date</string>
+    <string name="title_activity_booking_details">BookingDetails</string>
+    <string name="enter_the_booking_details_below">Enter the booking details below</string>
+    <string name="booking_date">Booking Date</string>
+    <string name="button">Button</string>
+    <string name="enter_the_payment_details_below">Enter the payment details below</string>
     <string name="name_on_card">Name on Card</string>
+    <string name="example_mr_ali_mohammad">Example: Mr Ali Mohammad</string>
+    <string name="card_number">Card Number</string>
+    <string name="card_expire_date">Card Expire Date</string>
+    <string name="cvc">CVC</string>
+    <string name="book_now">Book Now</string>
 </resources>
